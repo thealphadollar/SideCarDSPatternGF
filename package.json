@@ -1,0 +1,26 @@
+{
+  "name": "sidecardspatternpg",
+  "version": "1.0.0",
+  "description": "A Play Ground to learn and experiment with developing a distributed system application leveraging Sidecar pattern.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thealphadollar/SideCarDSPatternPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thealphadollar/SideCarDSPatternPG/issues"
+  },
+  "homepage": "https://github.com/thealphadollar/SideCarDSPatternPG#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy": "^1.18.1"
+  }
+}
